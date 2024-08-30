@@ -163,7 +163,7 @@ const Asked = () => {
           <hr className="border-2-2 border-black mt-3" />
 
           <p className="mt-4 leading-relaxed text-primary font-normal text-1xl">
-          Zero cost means vybing with us is completely free. You don’t have to pay a single rupee to build your store and monetize your audience.
+          Zero cost means vybing with us is completely free. You don&apos;t have to pay a single rupee to build your store and monetize your audience.
           </p>
         </details>
         {/* 4th */}
@@ -355,7 +355,7 @@ const Asked = () => {
           <hr className="border-2-2 border-black mt-3" />
 
           <p className="mt-4 leading-relaxed text-primary font-normal text-1xl">
-          If you have any questions or issues, you can reach out to VYB Store&apos;s customer support team via email at support@vybstore.com. We're here to help you succeed!
+          If you have any questions or issues, you can reach out to VYB Store&apos;s customer support team via email at support@vybstore.com. We&apos;re here to help you succeed!
           </p>
         </details>
         {/* 8th */}
@@ -414,7 +414,7 @@ const Asked = () => {
         >
           <summary className="flex cursor-pointer items-center justify-between gap-1.5 text-gray-900">
             <h2 className="font-bold text-primary">
-            We didn't find any account with those login credentials?
+            We didn&apos;t find any account with those login credentials?
             </h2>
 
             <span className="relative size-5 shrink-0">
@@ -501,7 +501,7 @@ You did google Sign in for the first time, so now &quot;Reset Password&quot; on 
           <hr className="border-2-2 border-black mt-3" />
 
           <p className="mt-4 leading-relaxed text-primary font-normal text-1xl">
-          You did email login first time. So, you probably need to connect Google. You can do email login and go to profile section and press &quot;Connect Google&quot;. Next time you should be able to do Google login seamlessly. in case you've forgotten the password, press &quot;Reset Password&quot;
+          You did email login first time. So, you probably need to connect Google. You can do email login and go to profile section and press &quot;Connect Google&quot;. Next time you should be able to do Google login seamlessly. in case you&apos;ve forgotten the password, press &quot;Reset Password&quot;
 
           </p>
         </details>
