@@ -5,6 +5,7 @@ import Link from 'next/link'
 import { Search } from 'lucide-react'
 import LoginButton from './LoginButton'
 const Navigate = () => {
+
   return (
     <header className='fixed z-10 top-0 w-full mt-3 flex items-center justify-center xl:px-[150px]'>
       <nav className='h-[78px] px-5 rounded-full w-full flex items-center justify-between bg-[#EFEFEF] overflow-visible'>
@@ -34,7 +35,9 @@ const Navigate = () => {
           <li><Link href="/aboutus">About Us</Link></li>
           <li><Link href="/policies">Policies</Link></li>
         </ul>
+        <Link href="/login">
         <LoginButton/>
+        </Link>
         
 
 
