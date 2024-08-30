@@ -12,8 +12,8 @@ const Timeline = () => {
               Start Vybing with us!
             </h3>
             <p class="text-sm md:text-base text-gray-50 mb-12">
-              "We help influencers make money by monetizing their travel plans,
-              merchandise, and digital goods and many more."
+            &quot;We help influencers make money by monetizing their travel plans,
+              merchandise, and digital goods and many more.&quot;
             </p>
             <Link
               href="#"
@@ -148,11 +148,11 @@ const Timeline = () => {
                   <div class="order-1 bg-secondary rounded-2xl w-full px-6 py-4">
                     <div className="py-2 w-full flex flex-col items-start gap-y-6">
                       <h2 className="text-black font-bold text-xl">
-                        "Monetize your influencer status: Earn money adding real
-                        value to your true followers!"
+                      &quot;Monetize your influencer status: Earn money adding real
+                        value to your true followers!&quot;
                       </h2>
                       <p className="text-black font-medium">
-                        Let VYB the money now !! It's here and withdraw it
+                        Let VYB the money now !! It&apos;s here and withdraw it
                         periodically.
                       </p>
                       <div className="w-full flex items-start justify-center">

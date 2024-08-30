@@ -14,7 +14,7 @@ const Asked = () => {
         FREQUENTLY ASKED QUESTIONS
       </h2>
       <p className="w-fit mx-auto text-primary font-normal text-lg">
-        Quick answers to questions you may have. Can’t find what you're looking
+        Quick answers to questions you may have. Can&apos;t find what you&apos;re looking
         for? <br />
         Check out our full documentation
       </p>
@@ -125,7 +125,7 @@ const Asked = () => {
         >
           <summary className="flex cursor-pointer items-center justify-between gap-1.5 text-gray-900">
             <h2 className="font-bold text-primary">
-            What does “Zero Cost” mean?
+            What does &quot;Zero Cost&quot; mean?
             </h2>
 
             <span className="relative size-5 shrink-0">
@@ -355,7 +355,7 @@ const Asked = () => {
           <hr className="border-2-2 border-black mt-3" />
 
           <p className="mt-4 leading-relaxed text-primary font-normal text-1xl">
-          If you have any questions or issues, you can reach out to VYB Store's customer support team via email at support@vybstore.com. We're here to help you succeed!
+          If you have any questions or issues, you can reach out to VYB Store&apos;s customer support team via email at support@vybstore.com. We're here to help you succeed!
           </p>
         </details>
         {/* 8th */}
@@ -403,7 +403,7 @@ const Asked = () => {
           <hr className="border-2-2 border-black mt-3" />
 
           <p className="mt-4 leading-relaxed text-primary font-normal text-1xl">
-          No, not at all! Our platform is designed with user-friendliness in mind. You can easily navigate and set up your store without any technical expertise. It's as simple as a few clicks to get started!
+          No, not at all! Our platform is designed with user-friendliness in mind. You can easily navigate and set up your store without any technical expertise. It&apos;s as simple as a few clicks to get started!
 
           </p>
         </details>
@@ -453,7 +453,7 @@ const Asked = () => {
 
           <p className="mt-4 leading-relaxed text-primary font-normal text-1xl">
             
-You did google Sign in for the first time, so now "Reset Password" on login page. You will receive magic link on the email. Use that link to change your password. Happy Vybing! 
+You did google Sign in for the first time, so now &quot;Reset Password&quot; on login page. You will receive magic link on the email. Use that link to change your password. Happy Vybing! 
           </p>
         </details>
         {/* 10th */}
@@ -501,7 +501,7 @@ You did google Sign in for the first time, so now "Reset Password" on login page
           <hr className="border-2-2 border-black mt-3" />
 
           <p className="mt-4 leading-relaxed text-primary font-normal text-1xl">
-          You did email login first time. So, you probably need to connect Google. You can do email login and go to profile section and press "Connect Google". Next time you should be able to do Google login seamlessly. in case you've forgotten the password, press "Reset Password"
+          You did email login first time. So, you probably need to connect Google. You can do email login and go to profile section and press &quot;Connect Google&quot;. Next time you should be able to do Google login seamlessly. in case you've forgotten the password, press &quot;Reset Password&quot;
 
           </p>
         </details>
