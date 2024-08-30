@@ -2,8 +2,15 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  
+@layer base {
+  :root{
+  --primary:#003C3C;
+  --secondary:#E5F0F1;
+  --tertiary:#00DC82;
+  --primarytext:#000000;
+  --secondarytext:#838383;
+  --othertext:#FFFFFF;
+}
 }
 
 
