@@ -1,10 +1,9 @@
 import React from 'react'
+import ContactUs from '../contact'
 
 const AboutUs = () => {
   return (
-    <div
-     className='border h-screen mt-24 bg-secondary px-[150px]'
-    >about</div>
+    <ContactUs/>
   )
 }
 
